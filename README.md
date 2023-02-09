@@ -15,7 +15,9 @@ All'interno di `/views` sono presenti le seguenti cartelle con i relativi file `
 `/Weather`in cui viene richiamato il componente `FormWeather` che definisce una funzione
 `getWeather`in cui si fa una chiamata all'API OpenWeather.org tramite `fetch` in cui vengono
 passati url, parametri di query e la chiave individuale.
+
 La funzione mostra all'utente un esito di errore se il campo d'input non è compilato o se non è stata digitata una città esistente.
+
 La funzione mostra il tempo metereologico attuale e mostra l'ìcona corrispondente se la città
 digitata esiste. 
 
