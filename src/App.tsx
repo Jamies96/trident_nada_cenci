@@ -6,7 +6,7 @@ import "./App.css";
 import Converter from "./views/Converter/Coverter";
 import Weather from "./views/Weather/Weather";
 import 'bootstrap/dist/css/bootstrap.css';
-import SignUp from "./views/Form/SignUp";
+import SignUp from "./views/SignUp/SignUp";
 
 function App() {
   return (
